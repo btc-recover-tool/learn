@@ -28,7 +28,7 @@ This repository is the learning hub for BTC Recover, the free and open-source to
 
 The guides are meant for owners recovering their own wallets. You do not need to be technical. Most people start with the point-and-click window, and the command line is there when you want every option. Nothing in these guides asks you to upload a seed, paste it into a website or share it with anyone, because BTC Recover never needs that. It works on your own computer, and we recommend switching off the internet after installing, before you type any seed word or open a wallet file.
 
-## 🗂️ How the guides are grouped
+## 🗂️ How the guides are grouped.
 
 The guides fall into six groups. **Install and setup** covers getting the right file for Windows, macOS or Linux, checking it and preparing a safe offline session. **Seed phrases** covers missing, misspelled and scrambled words, invalid phrase errors and wallets that look empty. **Passwords and passphrases** covers wallet files, BIP39 passphrases, token lists and typos. **Wallets** covers specific wallets such as Ledger, Trezor, Electrum, MetaMask, Blockchain.com, Bitcoin Core and MultiBit. **Performance and commands** covers graphics cards, the command line and making searches shorter. **Safety** covers fake downloads, antivirus warnings and estate recovery.
 
